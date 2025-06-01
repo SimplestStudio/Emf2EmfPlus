@@ -1,0 +1,5 @@
+build*
+Makefile*
+*.qmake*
+*.qtc_clang*
+*.user*
